@@ -1,0 +1,86 @@
+[
+  {
+    "state": "Telangana",
+    "district": "Warangal",
+    "village": "Rampur",
+    "soil_type": "Red Soil",
+    "historical_nitrogen": "LOW",
+    "historical_phosphorus": "MEDIUM",
+    "historical_potassium": "HIGH",
+    "reference_survey_year": "2024-2025",
+    "source_agency": "District Soil Health Mission Record",
+    "notes": "Red sandy-loam soils in this belt typically display low organic carbon (N deficiency) with adequate potassium minerals."
+  },
+  {
+    "state": "Telangana",
+    "district": "Warangal",
+    "village": "Hanamkonda Rural",
+    "soil_type": "Black Soil",
+    "historical_nitrogen": "MEDIUM",
+    "historical_phosphorus": "LOW",
+    "historical_potassium": "HIGH",
+    "reference_survey_year": "2024",
+    "source_agency": "Agricultural Research Station Record",
+    "notes": "Deep black soils retain moisture well; moderate nitrogen, often bound phosphorus requiring phosphate solubilization."
+  },
+  {
+    "state": "Telangana",
+    "district": "Karimnagar",
+    "village": "Manakondur",
+    "soil_type": "Loamy Soil",
+    "historical_nitrogen": "MEDIUM",
+    "historical_phosphorus": "MEDIUM",
+    "historical_potassium": "MEDIUM",
+    "reference_survey_year": "2025",
+    "source_agency": "Village Soil Testing Lab",
+    "notes": "Balanced alluvial loamy profile under canal irrigation command."
+  },
+  {
+    "state": "Telangana",
+    "district": "Nalgonda",
+    "village": "Miryalaguda",
+    "soil_type": "Clay Soil",
+    "historical_nitrogen": "LOW",
+    "historical_phosphorus": "HIGH",
+    "historical_potassium": "HIGH",
+    "reference_survey_year": "2024",
+    "source_agency": "Command Area Development Authority",
+    "notes": "Heavy clay under intensive paddy rotation; responsive to split nitrogen application."
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "village": "Tenali",
+    "soil_type": "Black Soil",
+    "historical_nitrogen": "MEDIUM",
+    "historical_phosphorus": "MEDIUM",
+    "historical_potassium": "HIGH",
+    "reference_survey_year": "2025",
+    "source_agency": "State Agriculture Department Survey",
+    "notes": "Fertile Krishna delta black cotton soils with naturally rich potassium."
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Kurnool",
+    "village": "Dhone",
+    "soil_type": "Red Soil",
+    "historical_nitrogen": "LOW",
+    "historical_phosphorus": "LOW",
+    "historical_potassium": "MEDIUM",
+    "reference_survey_year": "2024",
+    "source_agency": "Dryland Farming Research Station",
+    "notes": "Semi-arid red soil prone to rapid nutrient leaching."
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Anantapur",
+    "village": "Kalyandurg",
+    "soil_type": "Sandy Soil",
+    "historical_nitrogen": "LOW",
+    "historical_phosphorus": "LOW",
+    "historical_potassium": "LOW",
+    "reference_survey_year": "2025",
+    "source_agency": "Rainfed Agriculture Mission",
+    "notes": "Coarse sandy loam with high drainage; requires split organic and mineral nutrition."
+  }
+]

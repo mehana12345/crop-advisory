@@ -1,0 +1,73 @@
+[
+  {
+    "reportId": "ADV-688801",
+    "timestamp": "2026-09-30T15:21:28.801Z",
+    "farmer": {
+      "name": "Ravi Kumar",
+      "village": "Rampur",
+      "district": "Warangal",
+      "state": "Telangana",
+      "mobileNumber": "9848022338"
+    },
+    "field": {
+      "zoneName": "North Paddy Field",
+      "crop": "Paddy",
+      "season": "Kharif",
+      "soilType": "Red Soil",
+      "fieldArea": 3.5,
+      "areaUnit": "Acres",
+      "rainfall": "HIGH",
+      "soilMoisture": "HIGH",
+      "moistureLabel": "Farmer-observed soil moisture",
+      "nitrogen": "LOW",
+      "phosphorus": "MEDIUM",
+      "potassium": "HIGH",
+      "nutrientSource": "Estimated nutrient status based on available historical information"
+    },
+    "irrigation": {
+      "status": "IRRIGATION NOT REQUIRED NOW",
+      "statusCode": "NOT_REQUIRED",
+      "problem": "No moisture deficit.",
+      "why": "Recent rainfall is high and farmer-observed soil moisture is high.",
+      "advisory": "Irrigation is not required now.",
+      "suggestedAction": "Wait and monitor soil surface before scheduling next watering."
+    },
+    "fertilizer": {
+      "nitrogen": "LOW",
+      "phosphorus": "MEDIUM",
+      "potassium": "HIGH",
+      "nutrientSource": "Estimated nutrient status based on available historical information",
+      "hasDeficiency": true,
+      "summary": "Nitrogen (N) management recommended.",
+      "issues": [
+        {
+          "nutrient": "Nitrogen (N)",
+          "level": "LOW",
+          "problem": "Low Nitrogen Status",
+          "reason": "Nitrogen is marked as low for this field based on available soil information.",
+          "advisory": "Nitrogen management is recommended.",
+          "suggestedAction": "Follow the recommended nitrogen fertilizer dose (e.g. split application of Urea / Neem-coated urea) for this crop and soil condition."
+        }
+      ],
+      "statutoryDisclaimer": "Follow the crop- and soil-specific fertilizer dose recommended by your local agricultural authority or soil-test recommendation."
+    },
+    "yieldEstimation": {
+      "estimated_yield_tons_per_ha": 6.09,
+      "estimated_total_yield_tons": 8.63,
+      "calculated_hectares": 1.42,
+      "field_area": 3.5,
+      "area_unit": "Acres",
+      "model_name": "Multiple Linear Regression with Ridge Regularization",
+      "r2_score": 0.9647,
+      "mae_error": 2.5282,
+      "influence": {
+        "water_availability": "Favorable",
+        "nutrient_balance": "Deficiency detected",
+        "crop": "Paddy",
+        "season": "Kharif",
+        "soil_type": "Red Soil"
+      },
+      "disclaimer": "Estimated value — actual yield may vary depending on field conditions, weather, crop management and other factors."
+    }
+  }
+]

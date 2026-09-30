@@ -1,0 +1,6 @@
+{
+  "name": "CROP ADVISORY – Smart Farmer Assistant",
+  "description": "Smart farmer advisory system providing irrigation guidance, rule-based fertilizer recommendations, field-zone map visualization, and yield estimation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
